@@ -10,7 +10,7 @@ This project focuses on data analysis using PostgreSQL to evaluate insurance cla
 ## 🔍 Key Analyses Performed
 * *Risk Segmentation:* Grouping customers and vehicles by risk levels using CASE WHEN statements.
 * *Trend Analysis:* Analyzing yearly and monthly claim patterns.
-* *Aggregated Metrics:* Using aggregate functions and window functions to evaluate the contribution of specific segments to the total claim pool.
+* *Aggregated Metrics: Using aggregate functions and window functions to compare and rank risk across different segments.
 * *Claim Rate Analysis:* Comparing claim rates across vehicle models and engine power segments.
 
 ## 💻 Key SQL Queries
